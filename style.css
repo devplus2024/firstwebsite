@@ -1,3 +1,24 @@
+body {
+  background-color: #f0f0f0; /* Màu nền của trang */
+  background-image: url('duong-dan-den-hinh-nen.jpg'); /* Đường dẫn đến hình nền (nếu có) */
+  background-size: cover; /* Chọn kích thước để bao phủ toàn bộ màn hình */
+  background-repeat: no-repeat; /* Không lặp lại hình nền */
+  background-attachment: fixed; /* Giữ hình nền cố định khi cuộn trang */
+  /* Thêm các thuộc tính khác tùy thuộc vào yêu cầu của bạn */
+}
+
+/* Các quy tắc CSS khác cho các phần khác của giao diện chính */
+.header {
+  /* CSS cho phần header */
+}
+
+.main-content {
+  /* CSS cho phần nội dung chính */
+}
+
+.footer {
+  /* CSS cho phần footer */
+}
 h1{
     color:red;
 }
