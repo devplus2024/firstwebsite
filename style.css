@@ -1,0 +1,32 @@
+h1{
+    color:red;
+}
+p {
+    font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+    color:darkblue;
+  }
+label {
+    padding-right: 30px;
+    font-size: 1rem;
+    color:red;
+}
+.blue-text {
+    color: blue;
+}
+.hg{
+    color:red and orange;
+    font-family: Time New Roman;
+    font-size:300px;
+    font-weight: 900;
+}
+.about{
+    color:chartreuse;
+}
+.about-author {
+        background: linear-gradient(to right, red, yellow);
+        color: transparent; /* Đặt màu chữ thành trong suốt */
+        background-clip: text; /* Cho phép áp dụng gradient màu cho chữ */
+        display: inline-block; /* Để chia gradient theo chiều ngang */
+        /* Thêm các thuộc tính CSS khác nếu cần */
+}
+    
